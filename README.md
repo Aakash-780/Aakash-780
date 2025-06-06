@@ -1,4 +1,4 @@
-## Hi I'm Aakash 
+## Hi I'm Aakash 
 
 ---
 
@@ -14,12 +14,19 @@
 🧠 Focused on advancing knowledge in Machine Learning, Cloud Computing, and intelligent systems.
 
 
-🏆 Notable Achievements:  
-- 🥇 Dean’s Certificate for 9.223 GPA (Sem 2)  
+🏆 Notable Achievements:  
+- 🥇 Dean’s Certificate for 9.223 GPA (Sem 2)  
 - 🚘 4th @ IIT Jodhpur Ideathon for sustainable carpool app
 
 🎨 Graphic Design Coordinator @ AIML Community — crafted branding & Spotlight edition design.
 
+---
+
+### **📊 GitHub Stats:**
+
+![Aakash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aakash-780&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash-780&layout=compact&theme=dark)
 
 ---
 
