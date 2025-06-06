@@ -38,6 +38,7 @@
 
 ![Aakash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aakash-780&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=Aakash-780&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash-780&layout=compact&theme=dark)
 
