@@ -13,12 +13,6 @@
 
 🧠 Focused on advancing knowledge in Machine Learning, Cloud Computing, and intelligent systems.
 
-🛠️ Developed impactful projects including:  
-- **AI-powered legal chatbot** for the Justice of India (Top 50 @ SIH 2024)  
-- **Fuel optimization model** (4th place @ Fuel Fusion Hackathon by SPE-VIT)  
-- **Women Safety Carpool Website** prototype featuring dashcam, SOS, OTP verification & live tracking  
-- **Netflix & Amazon clones** built using only HTML/CSS  
-- **Weather Forecast Web App** leveraging real-time Weather API with a clean, responsive UI
 
 🏆 Notable Achievements:  
 - 🥇 Dean’s Certificate for 9.223 GPA (Sem 2)  
