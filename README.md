@@ -1,8 +1,8 @@
-## Hi I'm Aakash 👋
+## Hi I'm Aakash 
 
 ---
 
-# **👋 About Me:**
+# **👨‍💻 About Me:**
 
 
 👨‍🎓 Second-year AI & ML undergraduate at Manipal University Jaipur, passionate about blending technical skills with creative problem-solving.
