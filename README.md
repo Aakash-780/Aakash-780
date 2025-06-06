@@ -29,7 +29,7 @@
 
 ---
 
-# **🌐 Socials:**
+## **🌐 Socials:**
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&borderRadius=10)](https://instagram.com/Aakashh_780) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&borderRadius=10)](https://linkedin.com/in/aakash-srivastava) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&borderRadius=10)](https://github.com/Aakash-780) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&borderRadius=10)](mailto:aakashsrivastava2004@gmail.com)
 
