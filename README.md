@@ -2,7 +2,7 @@
 
 ---
 
-## **👋 About Me **
+## ** 👋 About Me **
 
 
 👨‍🎓 Second-year AI & ML undergraduate at Manipal University Jaipur, passionate about blending technical skills with creative problem-solving.
