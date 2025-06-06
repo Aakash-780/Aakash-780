@@ -4,14 +4,15 @@
 
 ## **🌟 About Me:**
 
-<small>
-🎓 Second-year AI & ML undergraduate at Manipal University Jaipur, passionate about combining technical skills with creative problem-solving.
 
-💻 Proficient in C/C++, Python, MySQL, HTML/CSS, and JavaScript, with practical experience in frontend web development.
+🎓 Second-year AI & ML undergraduate at Manipal University Jaipur, passionate about blending technical skills with creative problem-solving.
 
-🌐 Enthusiastically exploring web development to build intuitive and user-centric digital experiences.
+💻 Skilled in C/C++, Python, MySQL, HTML/CSS, and JavaScript, with hands-on frontend development experience.
 
-🤖 Dedicated to advancing knowledge in intelligent systems through Machine Learning, Cloud Computing, and Data Structures.
+🌐 Exploring web development to create intuitive, user-focused digital experiences.
+
+🤖 Focused on advancing knowledge in Machine Learning, Cloud Computing, and intelligent systems.
+
 
 🛠️ Developed impactful projects including:  
 - **AI-powered legal chatbot** for the Justice of India (Top 50 @ SIH 2024)  
@@ -25,7 +26,7 @@
 - 🚘 4th @ IIT Jodhpur Ideathon for sustainable carpool app
 
 🎨 Graphic Design Coordinator @ AIML Community — crafted branding & Spotlight edition design.
-</small>
+
 
 ---
 
