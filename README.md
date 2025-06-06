@@ -2,17 +2,16 @@
 
 ---
 
-## **🌟 About Me:**
+## **👋 About Me **
 
 
-🎓 Second-year AI & ML undergraduate at Manipal University Jaipur, passionate about blending technical skills with creative problem-solving.
+👨‍🎓 Second-year AI & ML undergraduate at Manipal University Jaipur, passionate about blending technical skills with creative problem-solving.
 
-💻 Skilled in C/C++, Python, MySQL, HTML/CSS, and JavaScript, with hands-on frontend development experience.
+💼 Skilled in C/C++, Python, MySQL, HTML/CSS, and JavaScript, with hands-on frontend development experience.
 
-🌐 Exploring web development to create intuitive, user-focused digital experiences.
+🌍 Exploring web development to create intuitive, user-focused digital experiences.
 
-🤖 Focused on advancing knowledge in Machine Learning, Cloud Computing, and intelligent systems.
-
+🧠 Focused on advancing knowledge in Machine Learning, Cloud Computing, and intelligent systems.
 
 🛠️ Developed impactful projects including:  
 - **AI-powered legal chatbot** for the Justice of India (Top 50 @ SIH 2024)  
