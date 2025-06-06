@@ -8,6 +8,8 @@
 
 💻 Skilled in C/C++, Python, MySQL, HTML/CSS, JavaScript with hands-on experience in frontend web development.
 
+🌐 Enthusiastically exploring web development to build intuitive and user-centric digital experiences.
+
 🤖 Exploring intelligent systems through Machine Learning, Cloud Computing & Data Structures.
 
 🛠️ Built innovative projects:  
@@ -17,20 +19,23 @@
 - **Netflix & Amazon clones** using only HTML/CSS  
 - **Weather Forecast Web App** using real-time Weather API and JavaScript to display temperature, humidity, and city-wise forecast with clean UI
 
-🏆 Notable Achievements:
-- 🥇 Dean’s Certificate for 9.223 GPA (Sem 2)
+🏆 Notable Achievements:  
+- 🥇 Dean’s Certificate for 9.223 GPA (Sem 2)  
 - 🚘 4th @ IIT Jodhpur Ideathon for sustainable carpool app
 
 🎨 Graphic Design Coordinator @ AIML Community — crafted branding & Spotlight edition design.
 
 ---
 
+## 🛠️ Skills:
+
+[![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/) [![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)](https://python.org/) [![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white)](https://mysql.com/) [![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+---
+
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aakashh_780)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aakash-srivastava)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aakash-780)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakashsrivastava2004@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/aakashh_780) [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aakash-srivastava) [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/Aakash-780) [![Email](https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:aakashsrivastava2004@gmail.com)
 
 ---
 
