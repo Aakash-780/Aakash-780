@@ -5,7 +5,7 @@
 # **👨‍💻 About Me:**
 
 
-👨‍🎓 Second-year AI & ML undergraduate at Manipal University Jaipur, passionate about blending technical skills with creative problem-solving.
+👨‍🎓 Final-year AI & ML undergraduate at Manipal University Jaipur, passionate about blending technical skills with creative problem-solving.
 
 💼 Skilled in C/C++, Python, MySQL, HTML/CSS, and JavaScript, with hands-on frontend development experience.
 
@@ -15,8 +15,8 @@
 
 
 🏆 Notable Achievements:  
-- 🥇 Dean’s Certificate for 9.223 GPA (Sem 2)  
-- 🚘 4th @ IIT Jodhpur Ideathon for sustainable carpool app
+- 🥇 Two times Dean’s Certificate for securing highest GPA (Sem 2)  
+- 🚘 4th @ IIT Jodhpur Ideathon for sustainable carpool 
 
 🎨 Graphic Design Coordinator @ AIML Community — crafted branding & Spotlight edition design.
 
